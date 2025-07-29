@@ -53,7 +53,7 @@ Clone this repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/neuronex-portfolio.git
+git clone https://github.com/neuronex-portfolio.git
 Open in your browser
 Simply open index.html in your browser to view the website.
 
