@@ -1,15 +1,15 @@
 
-🧠 Neuronex | Tech Community Portfolio
+### 🧠 Neuronex | Tech Community Portfolio
 Welcome to the official portfolio website of Neuronex — a student-driven tech community dedicated to innovation, exploration, and real-world technology solutions. 🚀
 
 
 📌 What is Neuronex?
 Neuronex is a vibrant hub for passionate student technologists aiming to build, showcase, and learn about cutting-edge technologies like AI, Web3, and Automation. From coding bootcamps to real-world product launches, we believe in learning by building.
 
-💡 Live Demo
+### 💡 Live Demo
 🌐 Click here to view the live portfolio
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 HTML5
 
 CSS3 (Dark Theme)
@@ -20,7 +20,7 @@ AOS (Animate on Scroll Library)
 
 Google Fonts (Outfit)
 
-⚙️ Features
+### ⚙️ Features
 Dark-mode UI for a sleek developer aesthetic
 
 Scroll animations using AOS
@@ -64,7 +64,12 @@ https://your-username.github.io/neuronex-portfolio
 
 🤝 Contribute
 We welcome suggestions, pull requests, or issue reports.
-Feel free to fork this repo and build your own version.
+Feel free to fork this repo and build your own version. 
+
+
+
+
+
 
 📫 Contact Us
 Email: neuronex.tech@gmail.com
