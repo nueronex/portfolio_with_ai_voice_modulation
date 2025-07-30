@@ -34,20 +34,24 @@ Easy to customize or extend
 📂 Folder Structure
 bash
 Copy
+
+
 Edit
-📁 neuronex-portfolio/
+### 📁 neuronex-portfolio/
 ├── index.html
 ├── style.css
 ├── main.js
 └── README.md
-🧩 Sections
+
+
+### 🧩 Sections
 Section	Description
 About	Brief about Neuronex's purpose and identity
 Vision	Vision, mission, and core goals of the community
 Projects	Areas of focus: AI/ML, Blockchain, Web Dev, Hackathons, Internships & more
 Contact	Email, LinkedIn, and social links
 
-📥 How to Use
+#### 📥 How to Use
 Clone this repo
 
 bash
@@ -62,7 +66,7 @@ Go to your repo > Settings > Pages > Source: select main branch > /root > Save
 Your site will be hosted at:
 https://your-username.github.io/neuronex-portfolio
 
-🤝 Contribute
+#### 🤝 Contribute
 We welcome suggestions, pull requests, or issue reports.
 Feel free to fork this repo and build your own version. 
 
@@ -71,12 +75,12 @@ Feel free to fork this repo and build your own version.
 
 
 
-📫 Contact Us
+### 📫 Contact Us
 Email: neuronex.tech@gmail.com
 
 Instagram: @neuronex
 
 LinkedIn: Neuronex
 
-📄 License
-This project is licensed under the MIT License.
+#### 📄 License
+This project is licensed under the MIT License.   
