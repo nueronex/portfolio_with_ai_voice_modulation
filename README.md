@@ -64,7 +64,7 @@ Simply open index.html in your browser to view the website.
 Deploy on GitHub Pages
 Go to your repo > Settings > Pages > Source: select main branch > /root > Save
 Your site will be hosted at:
-https://your-username.github.io/neuronex-portfolio
+https://neuronex/neuronex-portfolio
 
 #### 🤝 Contribute
 We welcome suggestions, pull requests, or issue reports.
